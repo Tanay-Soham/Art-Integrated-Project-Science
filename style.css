@@ -1,0 +1,18 @@
+body{
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	font-family: 'Candara',cursive;
+}
+table{
+	border-collapse: collapse;
+	background-color: "#F6F169";
+
+}
+
+.chart_art{
+	padding: 10px;
+	border-radius: 8px;
+
+}
